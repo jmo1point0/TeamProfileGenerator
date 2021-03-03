@@ -1,16 +1,7 @@
-## Description: Team Profile Generator
+## Team Profile Generator
 
 A Node command-line application that uses inquirer and takes in information about employees and generates an HTML webpage that displays summaries for each person.
 
-# Table of Contents:
-*[Installation](#installation)
-*[Usage](#usage)
-*[License](#license)
-*[Contributions](#contribution)
-*[Questions](#questions)
-
-
-## [GitHub Link](http://github.com/jmo1point0)
 
 
 
@@ -43,9 +34,8 @@ Reach out to me on my GitHub page at the following Link:
  -[GitHub Profile](https://github.com/jmo1point0)    
  Or by email: jordan.mossing@gmail.com
  
- # ![Image](./)
 
- # ![Image](./)
+ # ![Image](./Assets/team.PNG)
 
- # [Vimeo Link](https://vimeo.com/518828210/59cb6cf9e5) 
+ # [Vimeo Link](https://vimeo.com/518832380/08d0f00733) 
  
