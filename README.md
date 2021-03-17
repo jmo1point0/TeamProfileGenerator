@@ -35,7 +35,7 @@ Reach out to me on my GitHub page at the following Link:
  Or by email: jordan.mossing@gmail.com
  
 
- # ![Image](./02-Homework/Assets/team.PNG)
+ # ![Image](.//Assets/team.PNG)
 
  # [Vimeo Link](https://vimeo.com/518832380/08d0f00733) 
  
